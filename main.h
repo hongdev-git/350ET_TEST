@@ -1,4 +1,4 @@
-// TEST version
+// TEST version HJK
 void TimerEventProcedure();
 void AdcProcedure();
 void LoadCoilControlProcedure();
