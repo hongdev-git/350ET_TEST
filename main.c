@@ -1,6 +1,6 @@
 #include "main.h"
 
-// test for git
+// test for git HJK
 
 int main()
 {
